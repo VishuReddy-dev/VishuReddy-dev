@@ -2,12 +2,12 @@
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=vishu-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=VishuReddy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishu-reddy&theme=onedark" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=VishuReddy-dev&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 

@@ -17,12 +17,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [React Portfolio](https://github.com/Vishu-reddy/react-portfolio)
-
-- 🤝 I’m seeking help with [React Portfolio](https://github.com/Vishu-reddy/react-portfolio)
-
-- 👨‍💻 Explore all my projects at [My Portfolio](https://vishu-reddyportfolio.netlify.app/)
-
 - 💬 Ask me about **React, MERN Stack, Full-Stack Development**
 
 - 📫 Reach me at **saduvishwanath95@gmail.com**
